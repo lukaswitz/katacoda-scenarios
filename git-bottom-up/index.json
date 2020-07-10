@@ -6,11 +6,11 @@
   "details": {
     "steps": [
       {
-        "title": "SHA256",
+        "title": "Creating new repository",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Git as a database",
         "text": "step2.md"
       },
       {
